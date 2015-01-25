@@ -7,6 +7,7 @@ To get started, check out the repository, inspect the code,
 ### PageSpeed
 
 Starting pagespeed score after forking: 28 Mobile/30 Desktop
+Pagespeed after https://github.com/sabreuse/udportfolio/commit/ee98a8196ec438dca32cb91cee94c23b5743f41f : 76 Mobile/89 Desktop
 
 ### Getting started
 
